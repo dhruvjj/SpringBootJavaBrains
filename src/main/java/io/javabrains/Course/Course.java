@@ -1,4 +1,4 @@
-//Dhruv Jhaveri
+
 package io.javabrains.Course;
 
 import io.javabrains.Topic.Topic;
